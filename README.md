@@ -6,7 +6,7 @@ ARQ ensures a sequence of information packets is delivered in order and without 
 ------------------------------
 Stop and Wait for ARQ
 -------------------------------------------
-Characteristics of atop and wait for ARQ
+Characteristics of stop and wait for ARQ
 It is used in Connection-oriented communication.
 It offers error and flows control.
 It is used in Data Link and Transport Layers.
